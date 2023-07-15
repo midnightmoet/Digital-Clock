@@ -13,9 +13,10 @@ body {
 h2 {
   text-transform: uppercase;
   letter-spacing: 4px;
-  font-size: 22px;
+  font-size: 30px;
   text-align: center;
   color: white;
+  -webkit-text-stroke: 1px white;
 }
 
 .clock {
